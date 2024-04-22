@@ -17,6 +17,7 @@ def images(size):
 st.title('Peliculas en ASL')
 st.header("Español")
 clicked = images(40)
+st.markdown(f"**{clicked} clicked**" if clicked != "" else "**No click**")
 # outer_col = st.columns([1,1])
 # with outer_col[0]:
 #     st.markdown("<a href='https://streamable.com/e/gu49vo?' target='_blank'><img width='200' src='https://raw.githubusercontent.com/PeliculasEnASL/Peliculas/main/images/Frozen2.jpeg'></a>", unsafe_allow_html=True)
