@@ -12,6 +12,7 @@ with outer_col[0]:
 
 with outer_col[1]:
     st.markdown("<a href='https://streamable.com/e/xbi2nq?' target='_blank'><img width='400' src='https://raw.githubusercontent.com/PeliculasEnASL/Peliculas/main/images/AlmaNochebuena.jpeg'></a>", unsafe_allow_html=True)
+    st.text("Alma's Way Nochebuena")
     st.markdown("<a href='https://streamable.com/e/7949vm?' target='_blank'><img width='200' src='https://raw.githubusercontent.com/PeliculasEnASL/Peliculas/main/images/christmascarol.jpeg'></a>", unsafe_allow_html=True)
  
     
