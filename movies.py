@@ -15,7 +15,7 @@ with outer_col[1]:
     st.text("Alma's Way Nochebuena")
     st.markdown("<a href='https://streamable.com/e/7949vm?' target='_blank'><img width='200' src='https://raw.githubusercontent.com/PeliculasEnASL/Peliculas/main/images/christmascarol.jpeg'></a>", unsafe_allow_html=True)
     st.markdown("<a href='https://streamable.com/e/0rfzvf?' target='_blank'><img width='200' src='https://raw.githubusercontent.com/PeliculasEnASL/Peliculas/main/images/TheLittleMermaid.jpeg'></a>", unsafe_allow_html=True)
-    st.markdown("<a href='https://streamable.com/57m202' target='_blank'><img width='200' src='https://raw.githubusercontent.com/PeliculasEnASL/Peliculas/main/images/ToyStory.jpeg'></a>", unsafe_allow_html=True)
+    st.markdown("<a href='https://streamable.com/57m202' target='_blank'><img width='200' src='https://raw.githubusercontent.com/PeliculasEnASL/Peliculas/main/images/Toy_Story.jpeg'></a>", unsafe_allow_html=True)
  
     
 
